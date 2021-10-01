@@ -1,4 +1,4 @@
-getDirectoryContents "."module Main where
+module Main where
 
 import Data.List
 
